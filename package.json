@@ -1,0 +1,29 @@
+{
+  "name": "tai32max32",
+  "version": "1.0.0",
+  "description": "This Node.js module contains a collection of interesting functions for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<repository_url>"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0",
+	"sdk-krotovsemen": "1.0.0",
+"obs-lisacollins": "1.0.0",
+"layer-v22": "1.0.0",
+"petrivany": "1.0.0",
+"ls-v1": "1.0.0",
+"edwardcollins": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<repository_url>/issues"
+  },
+  "homepage": "<repository_url>#readme"
+}
